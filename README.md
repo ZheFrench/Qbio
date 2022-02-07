@@ -8,7 +8,8 @@ _________________
 </p>
 _________________
 
-# QBio :: Data Viz in Python
+
+# Data Visualisation in Python
 
 
 How the session is organized ? - 1h30
