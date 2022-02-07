@@ -1,4 +1,7 @@
 # QBio :: Data Viz in Python
+_________________
+
+![Qbio](https://qbio.umontpellier.fr/)
 
 How the session is organized ? - 1h30
 
