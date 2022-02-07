@@ -1,4 +1,4 @@
-_________________
+___  
 
 <p align="center">
 
@@ -7,7 +7,7 @@ _________________
 <img src="https://qbio.umontpellier.fr/wp-content/uploads/2020/10/LOGO_original_RVB_papier_en_tete.png" width="50" height="50">
 
 </p>
-_________________
+___  
 
 # Data Visualisation in Python
 
