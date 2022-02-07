@@ -8,7 +8,6 @@ _________________
 </p>
 _________________
 
-
 # Data Visualisation in Python
 
 
