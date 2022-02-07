@@ -1,9 +1,11 @@
 # QBio :: Data Viz in Python
 _________________
+<p align="center">
 
-![](https://qbio.umontpellier.fr/wp-content/uploads/2020/09/logo_qbio_quadri.png =100x50)
+<img src="https://qbio.umontpellier.fr/wp-content/uploads/2020/09/logo_qbio_quadri.png " width="100" height="50">
 
-![](https://qbio.umontpellier.fr/wp-content/uploads/2020/10/LOGO_original_RVB_papier_en_tete.png =50x50)
+<img src="https://qbio.umontpellier.fr/wp-content/uploads/2020/10/LOGO_original_RVB_papier_en_tete.png" width="50" height="50">
+</p>
 
 How the session is organized ? - 1h30
 
