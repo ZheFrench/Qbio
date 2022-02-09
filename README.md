@@ -12,12 +12,13 @@ ___
 
 # Data Visualization in Python
 
-The course is organize in two parts.  
+The course is divided in two parts.  
 
-At the beginning, I will talk about general concept of visualization.  
+At the beginning, I will talk about general concepts of visualization.  
 There is a link below to retrieve the slides.  
 Then I will try to give you some feebacks from the plotting library,  tips and reusable codes (I hope so)...  
 
+The second part is more technical. 
 There is 5 modules, 5 notebooks about different topics.   
 During each one, try to save one figure you will organize in a final panel that you will send me back.  
 I'll send you an empty one with publication ready dimensions.   
