@@ -10,7 +10,7 @@ ___
 
 ___  
 
-# Data Visualisation in Python
+# Data Visualization in Python
 
 How the session is organized ? - 1h30
 
