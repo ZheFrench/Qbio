@@ -8,9 +8,21 @@ ___
 
 </p>  
 
-___  
+
 
 # Data Visualization in Python
+
+The course is organize in two parts.  
+
+At the beginning, I will talk about general concept of visualization.  
+There is a link below to retrieve the slides.  
+Then I will try to give you some feebacks from the plotting library,  tips and reusable codes (I hope so)...  
+
+There is 5 modules, 5 notebooks about different topics.   
+During each one, try to save one figure you will organize in a final panel that you will send me back.  
+I'll send you an empty one with publication ready dimensions.   
+
+___  
 
 How the session is organized ? - 1h30
 
@@ -25,7 +37,7 @@ How the session is organized ? - 1h30
     1. Simple plots  
     2. Composite Plots  
     3. Heatmaps
-    4. Multidimensionality  
+    4. Multidimensionality  (Binary or Multiclass examples)
     5. A little Transgression with R  
 
 3. Create your own scientific panel of figures. ( ~ 10 mins )  
