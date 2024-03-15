@@ -44,3 +44,15 @@ How the session is organized ? - 1h30
 3. Create your own scientific panel of figures. ( ~ 10 mins )  
     1. Inkscape / PowerPoint   
 
+___  
+
+# Session 2
+
+
+1. Module 3 : Heatmap, Dendogram & ClusterHeatmap.   (20 min)
+
+2. Module 4 : PCA & T-SNE (Module4b is a model to resolve exercise 4a). (20 min)
+
+4. Module 5 : Examples in R (removed this year).
+
+3. Module 6 : A simple Venn Diagram (20 min)
