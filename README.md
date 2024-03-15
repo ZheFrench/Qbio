@@ -13,9 +13,8 @@ ___
 # Data Visualization in Python
 
 The course is divided in two parts.  
-1. Drink 1 beer
-2. Drink another beer
-3. (I don't know how to count) Drink a third beer
+1. Pay me 1 beer
+2. Get a good grade
 
 At the beginning, I will talk about general concepts of visualization.  
 There is a link below to retrieve the slides.  
